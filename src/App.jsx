@@ -9,7 +9,7 @@ import {
 
 const App = () => (
   <Container>
-    <Heading marginTop="20px">ArtiWhite 🤳</Heading>
+    <Heading marginTop="20px">ArtiWrite 🤳</Heading>
     <Text marginTop="20px">
       Unleash your creativity and express yourself in exciting new ways, all
       without needing any artistic or design skills. Simply input your text, and
