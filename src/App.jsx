@@ -25,12 +25,13 @@ const App = () => {
 
   return (
     <Container>
-      <Heading marginTop="20px">ArtiWrite 🤳</Heading>
+      <Heading marginTop="20px">ImageNeko 😻</Heading>
       <Text marginTop="20px">
-        Unleash your creativity and express yourself in exciting new ways, all
-        without needing any artistic or design skills. Simply input your text,
-        and our AI model will generate an image that perfectly captures the
-        essence of your words.
+        Create stunning anime-style images with our text-to-image AI generator,
+        powered by Stable Diffusion technology! Our cutting-edge AI algorithm is
+        trained on massive datasets of anime images, enabling it to generate
+        unique, high-quality visuals that perfectly capture the essence of your
+        text.
       </Text>
       <Stack spacing={2} direction="row" marginTop="20px">
         <Input
